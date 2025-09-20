@@ -10,7 +10,7 @@ Sou apaixonado por dados e tecnologia, trabalho na área desde 2022 e tenho um p
 
 ## 🔗 Link's Úteis
 
-<a href="glaubermateus9210@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkwmkgSbLHTCfLBscNwFCTfcMtRxgShkNNkxFLWWGwFJghlZnLzSZvtlSdScFWMwzDGkMN">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <a href="https://www.linkedin.com/in/glauber-cruz-6213281b0/">
