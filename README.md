@@ -130,7 +130,9 @@ Sou apaixonado por dados e tecnologia, trabalho na área desde 2022 e tenho um p
 
 ## 🗂 Repositórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glaubermateus&repo=Ciencia_De_Dados&theme=dark)](https://github.com/glaubermateus/Ciencia_De_Dados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glaubermateus&repo=Engenharia_Dados&theme=dark)](https://github.com/glaubermateus/Ciencia_De_Dados)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glaubermateus&repo=Ciencia_De_Dados&theme=dark)](https://github.com/glaubermateus/Engenharia_Dados)
 
 
 
